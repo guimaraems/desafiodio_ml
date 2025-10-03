@@ -1,4 +1,4 @@
-### desafiodio_ml
+### Previsão de Vendas de Guarda-Chuvas baseado em dados climáticos
 
 ### Cenário: Previsão de Vendas de Guarda-Chuvas - Chuva Boa ☔
 
